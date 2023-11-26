@@ -60,8 +60,8 @@
 
 ## Output:
 ![image](https://github.com/nkishore2210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118707090/3ed61aff-d225-45e5-8eb0-214b00b029e1)
-### Name: MANO KARTHICK S
-### Register Number: 212222230077
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
